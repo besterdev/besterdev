@@ -50,7 +50,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
 ---
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=besterdev&&theme=react-dark)](https://github.com/rishavchanda)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=besterdev&&theme=react-dark)](https://github.com/besterdev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=besterdev&show_icons=true&locale=en&theme=cobalt" alt="besterdev" /></p>
